@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server1",
+      "author": "typicode1"
+    },
+    {
+      "id": 3,
+      "title": "json-server2",
+      "author": "typicode2"
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 4
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 5
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 6
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 7
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 8
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 9
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 10
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 11
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 12
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 13
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 14
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 15
+    },
+    {
+      "title": "madara",
+      "author": "uchiha",
+      "id": 16
+    }
+  ]
+}

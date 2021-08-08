@@ -1,0 +1,6 @@
+.btn{
+    padding: 1rem;border-radius: 10px;background-color: red;
+}
+.btn:active{
+    transform: translateY(-2px);
+}
